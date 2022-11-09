@@ -1,4 +1,3 @@
-
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">I'm Yousub Ali<img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 
@@ -9,6 +8,7 @@
 <div width="100%" display="flex"  align="center">
   <h4">- A Curious Full Stack Developer from India, trained in MERN stack and DSA.<br>Passionate about building quality user-centric products using MERN stack.</h4>
 <h4>- Currently looking for an opprtunity 👨‍🎓</h4>
+      
 </div>
       
 
@@ -28,11 +28,11 @@
 - 👨‍💻 All of my projects are available at **[https://yousub-portfolio.netlify.app](https://yousub-portfolio.netlify.app)**
 
 - 📫 How to reach me **ysbofficial122@gmail.com**
-  
- </div>                                                                                                                                     </div
+                                                                                                                     
 
 <br>
-                                                                                                                                         <br>
+ 
+                                                                                                                                        
 <p align="left">
     <a href="https://github.com/YsbAli">
         <img src="https://komarev.com/ghpvc/?username=YsbAli&label=Profile%20views&color=0e75b6&style=flat" alt="Yousub Ali" />
