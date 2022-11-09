@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yousub Ali</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Curious Full Stack Web Developer from India, trained in MERN stack and DSA.Passionate about building quality user-centric products using MERN stack</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysbali&label=Profile%20views&color=0e75b6&style=flat" alt="ysbali" /> </p>
