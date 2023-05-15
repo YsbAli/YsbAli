@@ -2,7 +2,7 @@
 </h1>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer.;Full+Stact+Developer.;Front+End+Developer.;React+Developer.;Quick+learner.;Problem+Solver.&color=2C10F7&center=true&font=Roboto+Condensed" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer.;Full+Stack+Developer.;Front+End+Developer.;React+Developer.;Quick+learner.;Problem+Solver.&color=2C10F7&center=true&font=Roboto+Condensed" />
 </div>
 
 <div width="100%" display="flex"  align="center">
