@@ -25,9 +25,9 @@
 
 - 💬 Ask me about **[MERN Stack.](https://github.com/)**
 
-- 👨‍💻 All of my projects are available at **[https://yousub-portfolio.netlify.app](https://yousub-portfolio.netlify.app)**
+- 👨‍💻 All of mine Works are available at **[https://yousub-portfolio.netlify.app](https://yousub-portfolio.netlify.app)**
 
-- 📫 How to reach me **ysbofficial122@gmail.com**
+- 📫 How to reach me **yousub.webdev@gmail.com**
                                                                                                                      
 
 <br>
