@@ -7,7 +7,7 @@
 
 <div width="100%" display="flex"  align="center">
   <h4">- A Curious Full Stack Developer from India, trained in MERN stack and DSA.<br>Passionate about building quality user-centric products using MERN stack.</h4>
-<h4>- Currently looking for an opprtunity 👨‍🎓</h4>
+<h4>- Currently looking for an opportunity 👨‍🎓</h4>
       
 </div>
       
@@ -77,13 +77,4 @@
     <a href="https://yousub-portfolio.netlify.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://yousub-portfolio.netlify.app/" />
     </a>
-</p>
-
-<br>
-
-<h3 ><i>GitHub Stats:</i></h3>
-
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ysbali&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="ysbali" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysbali&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="ysbali" height="139" />
 </p>
