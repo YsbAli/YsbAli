@@ -78,7 +78,7 @@
     <a href="https://www.linkedin.com/in/yousub-ali-7078ba211/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/yousub-ali-7078ba211/" />
     </a>
-    <a href="https://yousub-portfolio.netlify.app/">
+    <a href="https://yousub-ali.vercel.app/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://yousub-portfolio.netlify.app/" />
     </a>
 </p>
